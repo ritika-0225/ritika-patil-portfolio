@@ -1,31 +1,26 @@
 # Ritika Patil | Portfolio
 
-Personal portfolio website showcasing my projects, experience, skills, certifications and achievements in data analytics and machine learning.
+A personal portfolio website presenting my work, skills and experience in data analytics and machine learning.
 
-**Live site:** https://your-site-name.netlify.app
+**Live site:** [https://your-site-name.netlify.app](https://your-site-name.netlify.app)
 
-## About
+## Purpose
 
-I am an MCA student and BCA graduate (CGPA 9.36) with a strong interest in data analytics and machine learning. This site is a single-page portfolio that brings together my work, from ML pipelines and dashboards to full-stack applications.
+I built this portfolio to bring my projects, internships, certifications and achievements together in one place. It gives recruiters, collaborators and peers a clear, easy-to-browse view of who I am and what I have built, and shows my skills in front-end development alongside my data work.
 
-## Features
+## What You Will Find
 
-- Responsive layout for desktop, tablet and mobile
-- Light and dark mode, with the choice remembered between visits
-- Typing effect in the hero section
-- Scroll-reveal animations and animated count-up stats
-- Film grain texture, animated gradient glow and hover effects on cards
-- Scroll progress indicator and active section highlighting in the navbar
-- Respects the "reduce motion" accessibility setting
+- **About:** A short introduction to my background, interests and goals.
+- **Skills:** Languages, data analytics and machine learning techniques, libraries, databases and tools.
+- **Experience:** My internships and the work I delivered in each.
+- **Projects:** Featured projects, including a fraud detection model, an Aadhaar enrollment analysis and a payroll management system, each with a link to its GitHub repository.
+- **Education:** My MCA and BCA details.
+- **Certifications:** Courses and certificates I have completed.
+- **Achievements:** Academic ranks and competition results.
+- **Contact:** Email, phone, LinkedIn and GitHub, along with a downloadable resume.
 
-## Sections
+The site is fully responsive and supports light and dark modes.
 
-About, Skills, Experience, Projects, Education, Certifications, Achievements and Contact.
+## Built With
 
-## Tech Stack
-
-- HTML5
-- CSS3 (custom properties, grid, flexbox, scroll-driven animations)
-- Vanilla JavaScript (no frameworks or build tools)
-
-## Project Structure
+HTML5, CSS3 and vanilla JavaScript.
